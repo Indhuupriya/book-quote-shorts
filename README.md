@@ -39,7 +39,7 @@ book-quote-shorts/
 ## ⚡ Installation (Local)
 
 1. Clone repo  
-   git clone https://github.com/your-username/book-quote-shorts.git
+   git clone https://github.com/Indhuupriya/book-quote-shorts.git
    cd book-quote-shorts
 
 2. Install dependencies
