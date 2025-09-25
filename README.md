@@ -19,9 +19,9 @@ It displays short book quotes like "reels" with smooth transitions, navigation, 
 
 ## 🛠️ Tech Stack
 
-- **Backend**: PHP 8, Laravel 10, MySQL/SQLite
+- **Backend**: PHP 8, Laravel 10, MySQL
 - **Frontend**: Vanilla JavaScript, Blade templates, CSS
-- **Database**: MySQL (or SQLite for local quick setup)
+- **Database**: MySQL
 
 ---
 
